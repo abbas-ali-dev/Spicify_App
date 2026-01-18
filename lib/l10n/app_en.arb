@@ -1,0 +1,304 @@
+{
+  "@@locale": "en",
+  "loginTitle": "Login to Your Account",
+  "@loginTitle": {
+    "description": "Login screen title"
+  },
+  "rememberMe": "Remember me",
+  "@rememberMe": {
+    "description": "Remember me checkbox label"
+  },
+  "loginButton": "Login",
+  "@loginButton": {
+    "description": "Login button text"
+  },
+  "processingButton": "Processing...",
+  "@processingButton": {
+    "description": "Login button text when loading"
+  },
+  "forgotPassword": "Forget Password ?",
+  "@forgotPassword": {
+    "description": "Forgot password link text"
+  },
+  "orLoginWith": "Or login with",
+  "@orLoginWith": {
+    "description": "Social login section title"
+  },
+  "noAccountPrompt": "Don't have an account ? ",
+  "@noAccountPrompt": {
+    "description": "Registration prompt text part 1"
+  },
+  "registerLink": "Register",
+  "@registerLink": {
+    "description": "Registration link text"
+  },
+  "emailHint": "Email",
+  "@emailHint": {
+    "description": "Email field hint text"
+  },
+  "passwordHint": "Password",
+  "@passwordHint": {
+    "description": "Password field hint text"
+  },
+  "fillAllFieldsError": "Please fill all fields",
+  "@fillAllFieldsError": {
+    "description": "Validation error when fields are empty"
+  },
+  "loginSuccess": "Login successful!",
+  "@loginSuccess": {
+    "description": "Success message after login"
+  },
+  "loginFailed": "Login failed",
+  "@loginFailed": {
+    "description": "Generic login failure message"
+  },
+  "exploreTitle": "Explore",
+  "@exploreTitle": {
+    "description": "Explore screen title"
+  },
+  "categoriesTitle": "Categories",
+  "@categoriesTitle": {
+    "description": "Categories section title"
+  },
+  "booksTitle": "Books",
+  "@booksTitle": {
+    "description": "Books section title"
+  },
+  "searchResults": "Search Results",
+  "@searchResults": {
+    "description": "Search results section title"
+  },
+  "searchHint": "Search...",
+  "@searchHint": {
+    "description": "Search field hint text"
+  },
+  "recommendedForYou": "Recommended For You",
+  "@recommendedForYou": {
+    "description": "Recommended books section title"
+  },
+  "bestSeller": "Best Seller",
+  "@bestSeller": {
+    "description": "Best seller section title"
+  },
+  "newReleases": "New Releases",
+  "@newReleases": {
+    "description": "New releases section title"
+  },
+  "trendingNow": "Trending Now",
+  "@trendingNow": {
+    "description": "Trending now section title"
+  },
+  "seeMore": "See more",
+  "@seeMore": {
+    "description": "See more link text"
+  },
+  "allCategory": "All",
+  "@allCategory": {
+    "description": "All categories option"
+  },
+  "errorLoadingCategories": "Error loading categories",
+  "@errorLoadingCategories": {
+    "description": "Error message when categories fail to load"
+  },
+  "errorLoadingBooks": "Error loading books",
+  "@errorLoadingBooks": {
+    "description": "Error message when books fail to load"
+  },
+  "errorLoadingRecommended": "Error loading recommended books",
+  "@errorLoadingRecommended": {
+    "description": "Error message when recommended books fail to load"
+  },
+  "favouritesTitle": "Favourites",
+  "@favouritesTitle": {
+    "description": "Favourites screen title"
+  },
+  "loginPrompt": "Please login to view your favourites.",
+  "@loginPrompt": {
+    "description": "Message shown when user needs to login"
+  },
+  "noFavourites": "No favourites found",
+  "@noFavourites": {
+    "description": "Message shown when no favourites exist"
+  },
+  "settingsTitle": "Settings",
+  "@settingsTitle": {
+    "description": "Settings screen title"
+  },
+  "selectLanguage": "Select Language",
+  "@selectLanguage": {
+    "description": "Language picker title"
+  },
+  "userDataNotFound": "User data not found",
+  "@userDataNotFound": {
+    "description": "Message when user data can't be loaded"
+  },
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Notifications settings option"
+  },
+  "changeLanguage": "Change Language",
+  "@changeLanguage": {
+    "description": "Language change option"
+  },
+  "subscriptionStatus": "Subscription Status",
+  "@subscriptionStatus": {
+    "description": "Subscription status option"
+  },
+  "termsOfService": "Terms of Service",
+  "@termsOfService": {
+    "description": "Terms of service option"
+  },
+  "privacyPolicy": "Privacy Policy",
+  "@privacyPolicy": {
+    "description": "Privacy policy option"
+  },
+  "aboutApp": "About Spicify",
+  "@aboutApp": {
+    "description": "About app option"
+  },
+  "logout": "Log out",
+  "done": "Done",
+  "homeTab": "Home",
+  "@homeTab": {
+    "description": "Home tab label"
+  },
+  "searchTab": "Search",
+  "@searchTab": {
+    "description": "Search tab label"
+  },
+  "favoritesTab": "Favorites",
+  "@favoritesTab": {
+    "description": "Favorites tab label"
+  },
+  "clubTab": "Club",
+  "@clubTab": {
+    "description": "Club tab label"
+  },
+  "subscriberClubTitle": "Subscriber Club",
+  "@subscriberClubTitle": {
+    "description": "Title for subscriber club screen"
+  },
+  "loginRequiredMessage": "Please login to access Subscriber Club",
+  "@loginRequiredMessage": {
+    "description": "Message shown when login is required"
+  },
+  "subscribeRequiredMessage": "This content is available to members",
+  "@subscribeRequiredMessage": {
+    "description": "Message shown when subscription is required"
+  },
+  "noContentFound": "No content found",
+  "@noContentFound": {
+    "description": "Message shown when no content is available"
+  },
+  "quoteOfWeek": "Quote of the week",
+  "@quoteOfWeek": {
+    "description": "Quote section title"
+  },
+  "quoteMissing": "Quote missing",
+  "@quoteMissing": {
+    "description": "Placeholder when quote is missing"
+  },
+  "bonusScenesTitle": "Bonus Spicy Scenes",
+  "@bonusScenesTitle": {
+    "description": "Bonus scenes section title"
+  },
+  "noQuestion": "No question",
+  "@noQuestion": {
+    "description": "Placeholder when poll question is missing"
+  },
+  "sneakPeekTitle": "Sneak Peek",
+  "@sneakPeekTitle": {
+    "description": "Sneak peek section title"
+  },
+  "tapToReveal": "Tap to reveal",
+  "@tapToReveal": {
+    "description": "Instruction for hidden content"
+  },
+  "userNotLoggedIn": "User not logged in.",
+  "userProfileNotFound": "User profile not found.",
+  "failedToFetchUserData": "Failed to fetch user data.",
+  "profileUpdatedSuccessfully": "Profile updated successfully",
+  "failedToSave": "Failed to save",
+  "imageUploadFailed": "Image upload failed",
+  "profile": "Profile",
+  "save": "Save",
+  "displayName": "Display Name",
+  "username": "Username",
+  "email": "Email",
+  "phone": "Phone",
+  "dateBirth": "Date Birth",
+  "enter": "Enter",
+  "january": "January",
+  "february": "February",
+  "march": "March",
+  "april": "April",
+  "may": "May",
+  "june": "June",
+  "july": "July",
+  "august": "August",
+  "september": "September",
+  "october": "October",
+  "november": "November",
+  "december": "December",
+  "loginToViewNotifications": "Please login to view your notifications.",
+  "noNotifications": "You don’t have any notifications yet.",
+  "detail": "Detail",
+  "level": "Level",
+  "playAudio": "Play Audio",
+  "bookDetails": "Detail",
+  "pleaseSubscribe": "Please subscribe to access this chapter",
+  "speed1x": "Speed 1x",
+  "speed2x": "Speed 2x",
+  "bookmark": "Favorite",
+  "chapters": "Chapters",
+  "registerTitle": "Register",
+  "@registerTitle": {
+    "description": "Title for registration screen"
+  },
+
+  "processing": "Processing...",
+  "@processing": {
+    "description": "Text shown during loading state"
+  },
+
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+
+  "fillAllFields": "Please fill all fields",
+  "@fillAllFields": {
+    "description": "Validation message when fields are empty"
+  },
+
+  "registrationSuccess": "Registration successful! Check your email for verification",
+  "@registrationSuccess": {
+    "description": "Success message after registration"
+  },
+
+  "registrationFailed": "Registration failed",
+  "@registrationFailed": {
+    "description": "Generic error message when registration fails"
+  },
+  "sendResetLink": "Send Reset Link",
+  "resetLinkSent": "Password reset link sent to your email.",
+  "resetLinkError": "Failed to send reset link. Try again.",
+  "enterValidEmail": "Please enter a valid email address",
+  "socialAccounts": "Social Accounts",
+  "instagram": "Instagram",
+  "youtube": "YouTube",
+  "tiktok": "TikTok",
+  "enterInstagramUrl": "Enter Instagram URL",
+  "enterYoutubeUrl": "Enter YouTube URL",
+  "enterTiktokUrl": "Enter TikTok URL",
+  "socialAccountsUpdated": "Social accounts updated successfully",
+  "invalidUrl": "Please enter a valid URL",
+  "deleteAccount": "Delete Account",
+  "deleteAccountConfirmation": "Are you sure you want to delete your account? This action cannot be undone.",
+  "accountDeletedSuccessfully": "Account deleted successfully",
+  "play": "Play",
+  "continueReading": "Continue Reading",
+  "continueListening": "Continue Listening",
+  "continueWatching": "Continue Watching",
+  "read": "Read"
+}

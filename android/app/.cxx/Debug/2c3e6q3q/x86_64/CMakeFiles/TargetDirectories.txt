@@ -1,0 +1,2 @@
+/Users/abidcomputers/Downloads/audiobook-main/android/app/.cxx/Debug/2c3e6q3q/x86_64/CMakeFiles/edit_cache.dir
+/Users/abidcomputers/Downloads/audiobook-main/android/app/.cxx/Debug/2c3e6q3q/x86_64/CMakeFiles/rebuild_cache.dir

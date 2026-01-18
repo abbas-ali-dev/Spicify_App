@@ -1,0 +1,249 @@
+{
+  "@@locale": "fr",
+
+  "loginTitle": "Connectez-vous à votre compte",
+  "@loginTitle": { "description": "Login screen title" },
+
+  "rememberMe": "Se souvenir de moi",
+  "@rememberMe": { "description": "Remember me checkbox label" },
+
+  "loginButton": "Connexion",
+  "@loginButton": { "description": "Login button text" },
+
+  "processingButton": "Traitement en cours...",
+  "@processingButton": { "description": "Login button text when loading" },
+
+  "forgotPassword": "Mot de passe oublié ?",
+  "@forgotPassword": { "description": "Forgot password link text" },
+
+  "orLoginWith": "Ou connectez-vous avec",
+  "@orLoginWith": { "description": "Social login section title" },
+
+  "noAccountPrompt": "Vous n'avez pas de compte ? ",
+  "@noAccountPrompt": { "description": "Registration prompt text part 1" },
+
+  "registerLink": "S'inscrire",
+  "@registerLink": { "description": "Registration link text" },
+
+  "emailHint": "E-mail",
+  "@emailHint": { "description": "Email field hint text" },
+
+  "passwordHint": "Mot de passe",
+  "@passwordHint": { "description": "Password field hint text" },
+
+  "fillAllFieldsError": "Veuillez remplir tous les champs",
+  "@fillAllFieldsError": { "description": "Validation error when fields are empty" },
+
+  "loginSuccess": "Connexion réussie !",
+  "@loginSuccess": { "description": "Success message after login" },
+
+  "loginFailed": "Échec de la connexion",
+  "@loginFailed": { "description": "Generic login failure message" },
+
+  "exploreTitle": "Explorer",
+  "@exploreTitle": { "description": "Explore screen title" },
+
+  "categoriesTitle": "Catégories",
+  "@categoriesTitle": { "description": "Categories section title" },
+
+  "booksTitle": "Livres",
+  "@booksTitle": { "description": "Books section title" },
+
+  "searchResults": "Résultats de recherche",
+  "@searchResults": { "description": "Search results section title" },
+
+  "searchHint": "Rechercher...",
+  "@searchHint": { "description": "Search field hint text" },
+
+  "recommendedForYou": "Recommandé pour vous",
+  "@recommendedForYou": { "description": "Recommended books section title" },
+
+  "bestSeller": "Meilleures ventes",
+  "@bestSeller": { "description": "Best seller section title" },
+
+  "newReleases": "Nouvelles sorties",
+  "@newReleases": { "description": "New releases section title" },
+
+  "trendingNow": "Tendances",
+  "@trendingNow": { "description": "Trending now section title" },
+
+  "seeMore": "Voir plus",
+  "@seeMore": { "description": "See more link text" },
+
+  "allCategory": "Tous",
+  "@allCategory": { "description": "All categories option" },
+
+  "errorLoadingCategories": "Erreur de chargement des catégories",
+  "@errorLoadingCategories": { "description": "Error message when categories fail to load" },
+
+  "errorLoadingBooks": "Erreur de chargement des livres",
+  "@errorLoadingBooks": { "description": "Error message when books fail to load" },
+
+  "errorLoadingRecommended": "Erreur de chargement des recommandations",
+  "@errorLoadingRecommended": { "description": "Error message when recommended books fail to load" },
+
+  "favouritesTitle": "Favoris",
+  "@favouritesTitle": { "description": "Favourites screen title" },
+
+  "loginPrompt": "Connectez-vous pour voir vos favoris.",
+  "@loginPrompt": { "description": "Message shown when user needs to login" },
+
+  "noFavourites": "Aucun favori trouvé",
+  "@noFavourites": { "description": "Message shown when no favourites exist" },
+
+  "settingsTitle": "Paramètres",
+  "@settingsTitle": { "description": "Settings screen title" },
+
+  "selectLanguage": "Sélectionner la langue",
+  "@selectLanguage": { "description": "Language picker title" },
+
+  "userDataNotFound": "Données utilisateur non trouvées",
+  "@userDataNotFound": { "description": "Message when user data can't be loaded" },
+
+  "notifications": "Notifications",
+  "@notifications": { "description": "Notifications settings option" },
+
+  "changeLanguage": "Changer de langue",
+  "@changeLanguage": { "description": "Language change option" },
+
+  "subscriptionStatus": "Statut d'abonnement",
+  "@subscriptionStatus": { "description": "Subscription status option" },
+
+  "termsOfService": "Conditions d'utilisation",
+  "@termsOfService": { "description": "Terms of service option" },
+
+  "privacyPolicy": "Politique de confidentialité",
+  "@privacyPolicy": { "description": "Privacy policy option" },
+
+  "aboutApp": "À propos de Spicify",
+  "@aboutApp": { "description": "About app option" },
+
+  "logout": "Se déconnecter",
+
+  "done": "Terminé",
+
+  "homeTab": "Accueil",
+  "@homeTab": { "description": "Home tab label" },
+
+  "searchTab": "Recherche",
+  "@searchTab": { "description": "Search tab label" },
+
+  "favoritesTab": "Favoris",
+  "@favoritesTab": { "description": "Favorites tab label" },
+
+  "clubTab": "Club",
+  "@clubTab": { "description": "Club tab label" },
+
+  "subscriberClubTitle": "Club des Abonnés",
+  "@subscriberClubTitle": { "description": "Title for subscriber club screen" },
+
+  "loginRequiredMessage": "Connectez-vous pour accéder au Club des Abonnés",
+  "@loginRequiredMessage": { "description": "Message shown when login is required" },
+
+  "subscribeRequiredMessage": "Ce contenu est réservé aux membres.",
+  "@subscribeRequiredMessage": { "description": "Message shown when subscription is required" },
+
+  "noContentFound": "Aucun contenu trouvé",
+  "@noContentFound": { "description": "Message shown when no content is available" },
+
+  "quoteOfWeek": "Citation de la Semaine",
+  "@quoteOfWeek": { "description": "Quote section title" },
+
+  "quoteMissing": "Citation manquante",
+  "@quoteMissing": { "description": "Placeholder when quote is missing" },
+
+  "bonusScenesTitle": "Scènes Épices Bonus",
+  "@bonusScenesTitle": { "description": "Bonus scenes section title" },
+
+  "noQuestion": "Pas de question",
+  "@noQuestion": { "description": "Placeholder when poll question is missing" },
+
+  "sneakPeekTitle": "Aperçu",
+  "@sneakPeekTitle": { "description": "Sneak peek section title" },
+
+  "tapToReveal": "Appuyez pour révéler",
+  "@tapToReveal": { "description": "Instruction for hidden content" },
+
+  "userNotLoggedIn": "Utilisateur non connecté.",
+  "userProfileNotFound": "Profil utilisateur introuvable.",
+  "failedToFetchUserData": "Échec de la récupération des données utilisateur.",
+  "profileUpdatedSuccessfully": "Profil mis à jour avec succès",
+  "failedToSave": "Échec de l'enregistrement",
+  "imageUploadFailed": "Échec du téléchargement de l'image",
+  "profile": "Profil",
+  "save": "Enregistrer",
+  "displayName": "Nom d'affichage",
+  "username": "Nom d'utilisateur",
+  "email": "E-mail",
+  "phone": "Téléphone",
+  "dateBirth": "Date de naissance",
+  "enter": "Entrer",
+
+  "january": "Janvier",
+  "february": "Février",
+  "march": "Mars",
+  "april": "Avril",
+  "may": "Mai",
+  "june": "Juin",
+  "july": "Juillet",
+  "august": "Août",
+  "september": "Septembre",
+  "october": "Octobre",
+  "november": "Novembre",
+  "december": "Décembre",
+
+  "loginToViewNotifications": "Veuillez vous connecter pour voir vos notifications.",
+  "noNotifications": "Vous n'avez pas encore de notifications.",
+  "detail": "Détail",
+  "level": "Niveau",
+  "playAudio": "Lire l'audio",
+  "bookDetails": "Détails",
+
+  "pleaseSubscribe": "Veuillez vous abonner pour accéder à ce chapitre",
+  "speed1x": "Vitesse 1x",
+  "speed2x": "Vitesse 2x",
+  "bookmark": "Préféré",
+  "chapters": "Chapitres",
+
+  "registerTitle": "S'inscrire",
+  "@registerTitle": { "description": "Title for registration screen" },
+
+  "processing": "Traitement en cours...",
+  "@processing": { "description": "Text shown during loading state" },
+
+  "cancel": "Annuler",
+  "@cancel": { "description": "Cancel button text" },
+
+  "fillAllFields": "Veuillez remplir tous les champs",
+  "@fillAllFields": { "description": "Validation message when fields are empty" },
+
+  "registrationSuccess": "Inscription réussie ! Vérifiez votre email pour la confirmation",
+  "@registrationSuccess": { "description": "Success message after registration" },
+
+  "registrationFailed": "Échec de l'inscription",
+  "@registrationFailed": { "description": "Generic error message when registration fails" },
+
+  "sendResetLink": "Envoyer le lien de réinitialisation",
+  "resetLinkSent": "Lien de réinitialisation envoyé à votre adresse e-mail.",
+  "resetLinkError": "Échec de l'envoi du lien. Veuillez réessayer.",
+  "enterValidEmail": "Veuillez entrer une adresse e-mail valide",
+
+  "socialAccounts": "Comptes sociaux",
+  "instagram": "Instagram",
+  "youtube": "YouTube",
+  "tiktok": "TikTok",
+  "enterInstagramUrl": "Entrez l'URL Instagram",
+  "enterYoutubeUrl": "Entrez l'URL YouTube",
+  "enterTiktokUrl": "Entrez l'URL TikTok",
+  "socialAccountsUpdated": "Comptes sociaux mis à jour avec succès",
+  "invalidUrl": "Veuillez entrer une URL valide",
+
+  "deleteAccount": "Supprimer le compte",
+  "deleteAccountConfirmation": "Êtes-vous sûr de vouloir supprimer votre compte ? Cette action est irréversible.",
+  "accountDeletedSuccessfully": "Compte supprimé avec succès",
+  "play": "Lire",
+  "continueReading": "Continuer la lecture",
+  "continueListening": "Continuer l’écoute",
+  "continueWatching": "Continuer à regarder",
+  "read": "Lire"
+}
